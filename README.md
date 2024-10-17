@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sahil Singh</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahil0502" alt="sahil0502" /></a> </p>
 
 - 📫 How to reach me **sahilsinghm32@gmail.com**
 
