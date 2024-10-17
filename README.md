@@ -49,9 +49,13 @@ Welcome to my GitHub profile! I’m a passionate Computer Science student curren
   <a href="https://www.leetcode.com/sahil_s2003" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sahil_s2003" height="30" width="40" />
   </a>
-  ** sahilsinghm32@gmail.com **
-  
 </p>
+
+<p align="left">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="30" width="40" />
+  <a href="mailto:sahilsinghm32@gmail.com" target="blank">sahilsinghm32@gmail.com</a>
+</p>
+
 
 ---
 
