@@ -1,3 +1,37 @@
+Hi there, I'm Sahil Singh 👋
+Full-Stack Developer | Data Enthusiast | Problem Solver
+
+Welcome to my GitHub profile! I’m a passionate Computer Science student currently pursuing a B.Tech at SRM University. My expertise lies in building full-stack applications and leveraging data for actionable insights. I am always excited about solving complex problems and working on innovative projects that challenge me to grow as a developer.
+
+👨‍💻 About Me:
+🔭 I’m currently working on Road2Skill - A full-stack platform providing personalized career roadmaps for students.
+🌱 I’m currently improving my skills in Cloud Computing and Data Engineering.
+👯 I’m looking to collaborate on open-source projects related to full-stack development and data analysis.
+⚡ Fun fact: I love debugging code as much as writing it.
+🔧 Tech Stack & Skills:
+Languages: C, C++, Python, JavaScript
+Frameworks & Libraries: React, Node.js, Express, MongoDB
+Data Visualization: Power BI, Tableau
+Tools & Technologies: Git, SQL, MS Excel
+Concepts: Data Structures, Algorithms, Cloud Computing, DBMS, Operating Systems
+📂 Highlighted Projects:
+Road2Skill
+A full-stack web app offering personalized career roadmaps using Node.js, Express, MongoDB, and React. Integrated secure user authentication with Passport.js, improving user engagement and satisfaction.
+
+E-Commerce Sales Insights
+Power BI project for analyzing sales data, leading to a 15% improvement in sales strategies.
+
+Sorting Visualizer
+A web-based sorting visualizer showcasing different algorithms. Interactive animations help users understand algorithmic efficiency.
+
+🚀 My Stats:
+
+📫 Let’s Connect:
+LinkedIn: linkedin.com/in/sahil-singh-ss9824
+LeetCode: leetcode.com/u/sahil_s2003
+GitHub: github.com/Sahil0502
+
+
 <h1 align="center">Hi 👋, I'm Sahil Singh</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
