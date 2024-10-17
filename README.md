@@ -7,10 +7,10 @@ Welcome to my GitHub profile! I’m a passionate Computer Science student curren
 ---
 
 ### 👨‍💻 **About Me:**
-- 🔭 I’m currently working on **[Road2Skill](https://github.com/Sahil0502/Road2Skill)** - A full-stack platform providing personalized career roadmaps for students.
-- 🌱 I’m currently improving my skills in **Cloud Computing** and **Data Engineering**.
-- 👯 I’m looking to collaborate on open-source projects related to **full-stack development** and **data analysis**.
-- ⚡ Fun fact: I love debugging code as much as writing it.
+- 🔭 I’m currently working on **[Road2Skill](https://github.com/Sahil0502/Road2Skill)**, a full-stack platform that provides personalized career roadmaps for students.
+- 🌱 I’m actively seeking opportunities in **Software Development** and **Data Analysis** to apply my skills and grow professionally.
+- 👯 I’m open to collaborating on open-source projects related to **full-stack development** and **data analysis**.
+- ⚡ Fun fact: I enjoy debugging code as much as writing it!
 
 ---
 
