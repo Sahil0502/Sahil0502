@@ -1,35 +1,54 @@
-Hi there, I'm Sahil Singh 👋
-Full-Stack Developer | Data Enthusiast | Problem Solver
+# Hi there, I'm Sahil Singh 👋  
+
+**`Full-Stack Developer | Data Enthusiast | Problem Solver`**
 
 Welcome to my GitHub profile! I’m a passionate Computer Science student currently pursuing a B.Tech at SRM University. My expertise lies in building full-stack applications and leveraging data for actionable insights. I am always excited about solving complex problems and working on innovative projects that challenge me to grow as a developer.
 
-👨‍💻 About Me:
-🔭 I’m currently working on Road2Skill - A full-stack platform providing personalized career roadmaps for students.
-🌱 I’m currently improving my skills in Cloud Computing and Data Engineering.
-👯 I’m looking to collaborate on open-source projects related to full-stack development and data analysis.
-⚡ Fun fact: I love debugging code as much as writing it.
-🔧 Tech Stack & Skills:
-Languages: C, C++, Python, JavaScript
-Frameworks & Libraries: React, Node.js, Express, MongoDB
-Data Visualization: Power BI, Tableau
-Tools & Technologies: Git, SQL, MS Excel
-Concepts: Data Structures, Algorithms, Cloud Computing, DBMS, Operating Systems
-📂 Highlighted Projects:
-Road2Skill
-A full-stack web app offering personalized career roadmaps using Node.js, Express, MongoDB, and React. Integrated secure user authentication with Passport.js, improving user engagement and satisfaction.
+---
 
-E-Commerce Sales Insights
-Power BI project for analyzing sales data, leading to a 15% improvement in sales strategies.
+### 👨‍💻 **About Me:**
+- 🔭 I’m currently working on **[Road2Skill](https://github.com/mdehteshamansari/Road2Skill)** - A full-stack platform providing personalized career roadmaps for students.
+- 🌱 I’m currently improving my skills in **Cloud Computing** and **Data Engineering**.
+- 👯 I’m looking to collaborate on open-source projects related to **full-stack development** and **data analysis**.
+- ⚡ Fun fact: I love debugging code as much as writing it.
 
-Sorting Visualizer
-A web-based sorting visualizer showcasing different algorithms. Interactive animations help users understand algorithmic efficiency.
+---
 
-🚀 My Stats:
+### 🔧 **Tech Stack & Skills:**
+- **Languages:** C, C++, Python, JavaScript  
+- **Frameworks & Libraries:** React, Node.js, Express, MongoDB  
+- **Data Visualization:** Power BI, Tableau  
+- **Tools & Technologies:** Git, SQL, MS Excel  
+- **Concepts:** Data Structures, Algorithms, Cloud Computing, DBMS, Operating Systems
 
-📫 Let’s Connect:
-LinkedIn: linkedin.com/in/sahil-singh-ss9824
-LeetCode: leetcode.com/u/sahil_s2003
-GitHub: github.com/Sahil0502
+---
+
+### 📂 **Highlighted Projects:**
+- **[Road2Skill](https://github.com/mdehteshamansari/Road2Skill)**  
+  A full-stack web app offering personalized career roadmaps using Node.js, Express, MongoDB, and React. Integrated secure user authentication with Passport.js, improving user engagement and satisfaction.
+  
+- **[E-Commerce Sales Insights](https://github.com/Sahil0502/E-Commerce-Sales-Insights-Analysis-using-POWERBI)**  
+  Power BI project for analyzing sales data, leading to a 15% improvement in sales strategies.
+
+- **[Sorting Visualizer](https://github.com/Sahil0502/Sorting-Visulaizer)**  
+  A web-based sorting visualizer showcasing different algorithms. Interactive animations help users understand algorithmic efficiency.
+
+---
+
+### 🚀 **My Stats:**
+![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahil0502&show_icons=true&theme=radical)
+
+---
+
+### 📫 **Let’s Connect:**
+- **LinkedIn:** [linkedin.com/in/sahil-singh-ss9824](https://www.linkedin.com/in/sahil-singh-ss9824/)
+- **LeetCode:** [leetcode.com/u/sahil_s2003](https://leetcode.com/u/sahil_s2003)
+- **GitHub:** [github.com/Sahil0502](https://github.com/Sahil0502)
+
+---
+
+By showcasing my skills, experience, and passion for coding, I aim to make an impact in software development and data-driven projects. Feel free to reach out if you're interested in collaborating or just want to chat about tech! 😊
+
 
 
 <h1 align="center">Hi 👋, I'm Sahil Singh</h1>
