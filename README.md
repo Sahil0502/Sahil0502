@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I’m a passionate Computer Science student curren
 ### 🔧 **Tech Stack & Skills:**
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> 
   </a> 
@@ -92,7 +92,17 @@ Welcome to my GitHub profile! I’m a passionate Computer Science student curren
 
 ---
 
-### 💡 **LeetCode & HackerRank Achievements:**
+### 🧑‍💻 **LeetCode & HackerRank Achievements:**
+
+<p align="center">
+  <a href="https://www.leetcode.com/sahil_s2003" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="50" height="50" />
+  </a>  
+  <a href="https://www.hackerrank.com/ap21110010748l" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="50" height="50" />
+  </a> 
+</p>
+
 - 🏅 **HackerRank:**  
   - Python Problem Solving (Intermediate)
   - Data Structures (Advanced)
