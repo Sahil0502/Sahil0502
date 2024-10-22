@@ -92,16 +92,23 @@ Welcome to my GitHub profile! I’m a passionate Computer Science student curren
 
 ---
 
+### 💡 **LeetCode & HackerRank Achievements:**
+- 🏅 **HackerRank:**  
+  - Python Problem Solving (Intermediate)
+  - Data Structures (Advanced)
+  - SQL Challenges (Intermediate)  
+  [My HackerRank Profile](https://www.hackerrank.com/ap21110010748l)
+
+- 🏅 **LeetCode:**  
+  - Solved over **200+ problems** across algorithms, data structures, and competitive coding challenges.  
+  [My LeetCode Profile](https://www.leetcode.com/sahil_s2003)
+
+---
+
 ### 📫 **Let’s Connect:**
 <p align="left">
   <a href="https://linkedin.com/in/sahil-singh-ss9824" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil-singh-ss9824" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/ap21110010748l" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ap21110010748l" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/sahil_s2003" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sahil_s2003" height="30" width="40" />
   </a>
 </p>
 
