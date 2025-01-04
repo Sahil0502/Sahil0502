@@ -1,6 +1,6 @@
 # Hi there, I'm Sahil Singh 👋  
 
-**`Full-Stack Developer | Data Enthusiast | Problem Solver`**
+**`Full-Stack Developer | Devops Enthusiast | Problem Solver`**
 
 ![GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
