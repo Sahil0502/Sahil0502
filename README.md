@@ -3,7 +3,7 @@
 **`Full-Stack Developer | Java Developer | DevOps Enthusiast | Problem Solver`**
 
 <div align="center">
-  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://i.pinimg.com/736x/8d/90/98/8d90987af9e8b4dff950a0ac5f42357f.jpg)" width="800"/>
+  <img src="[https://i.pinimg.com/736x/8d/90/98/8d90987af9e8b4dff950a0ac5f42357f.jpg](https://i.pinimg.com/736x/8d/90/98/8d90987af9e8b4dff950a0ac5f42357f.jpg)" width="400"/>
 </div>
 
 <div align="center">
