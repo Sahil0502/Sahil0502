@@ -1,132 +1,134 @@
 # Hi there, I'm Sahil Singh 👋  
 
-**`Full-Stack Developer | Devops Enthusiast | Problem Solver`**
+**`Full-Stack Developer | Java Developer | DevOps Enthusiast | Problem Solver`**
 
-![GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+<div align="center">
+  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://i.pinimg.com/736x/8d/90/98/8d90987af9e8b4dff950a0ac5f42357f.jpg)" width="400"/>
+</div>
 
-Welcome to my GitHub profile! I’m a passionate Computer Science student currently pursuing a B.Tech at SRM University. My expertise lies in building full-stack applications and leveraging data for actionable insights. I am always excited about solving complex problems and working on innovative projects that challenge me to grow as a developer.
-
----
-
-### 👨‍💻 **About Me:**
-- 🔭 I’m currently working on **[Road2Skill](https://github.com/Sahil0502/Road2Skill)**, a full-stack platform that provides personalized career roadmaps for students.
-- 🌱 I’m actively seeking opportunities in **Software Development** and **Data Analysis** to apply my skills and grow professionally.
-- 👯 I’m open to collaborating on open-source projects related to **full-stack development** and **data analysis**.
-- ⚡ Fun fact: I enjoy debugging code as much as writing it!
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Developer;DevOps+%26+Cloud+Enthusiast;Always+Learning+%26+Building!">
+</div>
 
 ---
 
-### 🔧 **Tech Stack & Skills:**
+## 🚀 **About Me**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/>
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>
-  </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"/>
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/>
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/>
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/>
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/>
-  </a> 
-</p>
+I'm a passionate **Computer Science student** at **SRM University**, specializing in scalable applications and cloud technologies. I love building innovative solutions that solve real-world problems.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=I+Code+.+.+.+Build+.+.+.+and+.+.+.+Solve!">
-</p>
+- 🔭 Currently working on **AI-powered learning platforms** and **cloud-native applications**
+- 🌱 Seeking opportunities in **Software Development**, **Cloud Engineering**, and **DevOps**
+- 👯 Open to collaborating on **open-source projects** and **innovative tech solutions**
+- ⚡ Fun fact: I debug with the same enthusiasm as I code!
 
 ---
 
-### 📂 **Highlighted Projects:**
-- **[Road2Skill](https://github.com/Sahil0502/Road2Skill)**  
-  A full-stack web app offering personalized career roadmaps using Node.js, Express, MongoDB, and React. Integrated secure user authentication with Passport.js, improving user engagement and satisfaction.
-  
-- **[E-Commerce Sales Insights](https://github.com/Sahil0502/E-Commerce-Sales-Insights-Analysis-using-POWERBI)**  
-  Power BI project for analyzing sales data, leading to a 15% improvement in sales strategies.
+## 🛠️ **Tech Stack**
 
-- **[Sorting Visualizer](https://github.com/Sahil0502/Sorting-Visulaizer)**  
-  A web-based sorting visualizer showcasing different algorithms. Interactive animations help users understand algorithmic efficiency.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,html,css,react,nodejs,express,spring,hibernate,azure,docker,kubernetes,jenkins,mysql,mongodb,postgresql,graphql,git,github,vscode,linux" />
+</div>
 
----
+<div align="center">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+</div>
 
-### 🏆 **GitHub Trophies:**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sahil0502&theme=radical&no-frame=false&margin-w=15" alt="GitHub Trophies"/>
-</p>
-
----
-
-### 📊 **GitHub Stats and Dashboard:**
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sahil0502&show_icons=true&theme=radical" alt="Sahil's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil0502&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sahil0502&theme=radical" alt="GitHub Streak"/>
-</p>
+### **Core Technologies:**
+- **Languages:** C, C++, Python, Java, JavaScript, HTML, CSS
+- **Frontend:** React.js, HTML5, CSS3
+- **Backend:** Node.js, Express, Spring Boot, JPA, Hibernate
+- **Cloud & DevOps:** Azure, Docker, Kubernetes, Jenkins (CI/CD)
+- **Databases:** MySQL, MongoDB, PostgreSQL
+- **API & Query:** GraphQL
+- **Tools:** Tableau, Power BI, VS Code, Git/GitHub, Linux
 
 ---
 
-### 🧑‍💻 **LeetCode & HackerRank Achievements:**
+## 🏆 **Featured Projects**
 
-<p align="center">
-  <a href="https://www.leetcode.com/sahil_s2003" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="50" height="50" />
-  </a>  
-  <a href="https://www.hackerrank.com/ap21110010748l" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="50" height="50" />
-  </a> 
-</p>
+### 🌟 **Road2Skill - AI Learning Platform**
+**Tech:** React.js, Node.js, MongoDB, Docker | **Impact:** 25% ↑ student satisfaction
+- AI-powered personalized roadmaps with resource recommendations
+- Real-time progress tracking and community integration
+- Secure authentication with responsive design
 
-- 🏅 **HackerRank:**  
-  - Python Problem Solving (Intermediate)
-  - Data Structures (Advanced)
-  - SQL Challenges (Intermediate)  
-  [My HackerRank Profile](https://www.hackerrank.com/ap21110010748l)
+### 🗄️ **Multi-Database Task Management System**
+**Tech:** Spring Boot, GraphQL, Redis, MySQL | **Impact:** 40% ↑ performance
+- Scalable architecture querying 10+ separate databases
+- Redis caching with batch fetching optimization
+- Material-UI dashboard handling lakhs of tasks
 
-- 🏅 **LeetCode:**  
-  - Solved over **200+ problems** across algorithms, data structures, and competitive coding challenges.  
-  [My LeetCode Profile](https://www.leetcode.com/sahil_s2003)
+### ☁️ **Kubernetes Cloud Infrastructure**
+**Tech:** Terraform, Azure AKS, GitHub Actions | **Impact:** 100% automation
+- End-to-end DevOps pipeline with Infrastructure as Code
+- Container orchestration with auto-scaling
+- Zero-downtime deployments with integrated testing
 
 ---
 
-### 📫 **Let’s Connect:**
-<p align="left">
-  <a href="https://linkedin.com/in/sahil-singh-ss9824" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil-singh-ss9824" height="30" width="40" />
+## 📊 **GitHub Stats**
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sahil0502&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil0502&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil0502&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🏅 **Achievements**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sahil0502&theme=algolia&no-frame=false&row=1&column=6" />
+</div>
+
+**💪 Coding Platforms:**
+- 🥇 **LeetCode:** [200+ Problems Solved](https://www.leetcode.com/sahil_s2003)
+- 🥇 **HackerRank:** [Python, SQL, Data Structures Certified](https://www.hackerrank.com/ap21110010748l)
+
+---
+
+## 🎯 **Currently Working On**
+
+```java
+public class Sahil {
+    String[] currentFocus = {"Microservices", "System Design", "Cloud Architecture"};
+    String[] learning = {"Kubernetes", "Azure DevOps", "Machine Learning"};
+    String[] expertise = {"Full-Stack Development", "Cloud Computing", "DevOps"};
+    
+    public String getCurrentProject() {
+        return "Building scalable cloud-native applications";
+    }
+}
+```
+
+---
+
+## 🤝 **Let's Connect**
+
+<div align="center">
+  <a href="https://linkedin.com/in/sahil-singh-ss9824">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
+  <a href="mailto:sahilsinghm32@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Sahil0502">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
 
-<p align="left">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="30" width="40" />
-  <a href="mailto:sahilsinghm32@gmail.com" target="blank">sahilsinghm32@gmail.com</a>
-</p>
+<div align="center">
+  <sub>⭐ Building the future, one commit at a time!</sub>
+</div>
 
 ---
 
-By showcasing my skills, experience, and passion for coding, I aim to make an impact in software development and data-driven projects. Feel free to reach out if you're interested in collaborating or just want to chat about tech! 😊
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sahil0502&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
