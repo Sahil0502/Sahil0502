@@ -3,7 +3,7 @@
 **`Full-Stack Developer | Java Developer | DevOps Enthusiast | Problem Solver`**
 
 <div align="center">
-  <img src="[https://assets.pinterest.com/ext/embed.html?id=7036943162225977](https://assets.pinterest.com/ext/embed.html?id=7036943162225977)" width="400"/>
+  <img src="[https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)" width="400"/>
 </div>
 
 <div align="center">
