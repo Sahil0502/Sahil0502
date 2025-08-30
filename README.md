@@ -2,6 +2,7 @@
 
 **`Full-Stack Developer | Java Developer | DevOps Enthusiast | Problem Solver`**
 
+
 <div align="center">
   <img src="https://i.pinimg.com/originals/02/01/1e/02011ec8554277b8c70bf22fb192123c.gif" width="600"/>
 </div>
@@ -10,7 +11,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=a503fc&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Developer;Java+Developer;DevOps+%26+Cloud+Enthusiast;Always+Learning+%26+Building!">
 </div>
----
 
 ## 🚀 **About Me**
 
