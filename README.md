@@ -14,7 +14,7 @@
 
 ## 🚀 **About Me**
 
-I'm a passionate **Computer Science student** at **SRM University**, specializing in scalable applications and cloud technologies. I love building innovative solutions that solve real-world problems.
+I'm working as a **Software Engineer**, specializing in scalable applications and cloud technologies. I love building innovative solutions that solve real-world problems.
 
 - 🔭 Currently working on **AI-powered learning platforms** and **cloud-native applications**
 - 🌱 Seeking opportunities in **Software Development**, **Cloud Engineering**, and **DevOps**
